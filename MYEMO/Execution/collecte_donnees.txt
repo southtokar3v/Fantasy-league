@@ -1,0 +1,8 @@
+# Collecte ponctuelle des données
+python scripts/run_collection.py
+
+# Collecte en temps réel (toutes les 30 minutes)
+python scripts/realtime_collector.py
+
+# Arrêter la collecte en temps réel
+Ctrl + C

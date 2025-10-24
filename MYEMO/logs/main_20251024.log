@@ -1,0 +1,4 @@
+2025-10-24 19:50:09,949 - INFO - ✅ Connexion ESPN réussie: International FNBA
+2025-10-24 19:50:09,950 - INFO - 👥 13 équipes
+2025-10-24 19:50:09,978 - INFO - Début de la collecte des données...
+2025-10-24 19:50:09,980 - ERROR - Erreur lors de l'exécution: 'DataProcessor' object has no attribute 'process_general_standings'

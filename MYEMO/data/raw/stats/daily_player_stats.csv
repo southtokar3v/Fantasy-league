@@ -1,0 +1,27 @@
+date,player,team,status,pts,reb,ast,blk,stl,3pm,fg_pct,ft_pct,games_played,injury_status,nba_team
+20251024,Jaylen Wells,Ersan Ilyasova,active,14.0,3.0,4.0,0.0,1.0,4.0,0.5,0.4,0,False,MEM
+20251024,Tyus Jones,Antonin's Team,active,0.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0,False,ORL
+20251024,Gradey Dick,KATs and Dogs,active,21.0,5.0,0.0,0.0,1.0,2.0,0.6,0.875,0,False,TOR
+20251024,VJ Edgecombe,Tom's Talented Team,active,34.0,7.0,3.0,0.0,1.0,5.0,0.5,0.5,0,False,PHL
+20251024,Tari Eason,Her Majesty’s Ball Handler,active,3.0,6.0,0.0,1.0,0.0,1.0,0.167,0.0,0,False,HOU
+20251024,Khris Middleton,Giulia's Great Team,active,23.0,6.0,3.0,0.0,0.0,3.0,0.643,0.667,0,False,WAS
+20251024,Brice Sensabaugh,Bricked I Am,active,20.0,4.0,2.0,0.0,1.0,3.0,0.538,1.0,0,False,UTA
+20251024,Isaiah Stewart,Marx Madness,active,20.0,10.0,2.0,4.0,0.0,2.0,0.571,1.0,0,False,DET
+20251024,Kyle Kuzma,Baptiste team,active,12.0,4.0,3.0,2.0,2.0,0.0,0.5,1.0,0,False,MIL
+20251024,Davion Mitchell,Neon Cobras 99,active,16.0,6.0,12.0,1.0,2.0,2.0,0.467,0.0,0,False,MIA
+20251024,Jarrett Allen,Elie Auquaubeau,active,4.0,4.0,1.0,0.0,2.0,0.0,0.25,0.5,0,False,CLE
+20251024,Kel'el Ware,Alexander's Awesome Team,active,7.0,4.0,0.0,1.0,1.0,1.0,0.6,0.0,0,False,MIA
+20251024,Jaime Jaquez Jr.,The Bronsegsuals,active,13.0,6.0,1.0,0.0,2.0,0.0,0.857,0.5,0,False,MIA
+20251024,Jaylen Wells,Ersan Ilyasova,active,14.0,3.0,4.0,0.0,1.0,4.0,0.5,0.4,0,False,MEM
+20251024,Tyus Jones,Antonin's Team,active,0.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0,False,ORL
+20251024,Gradey Dick,KATs and Dogs,active,21.0,5.0,0.0,0.0,1.0,2.0,0.6,0.875,0,False,TOR
+20251024,VJ Edgecombe,Tom's Talented Team,active,34.0,7.0,3.0,0.0,1.0,5.0,0.5,0.5,0,False,PHL
+20251024,Tari Eason,Her Majesty’s Ball Handler,active,3.0,6.0,0.0,1.0,0.0,1.0,0.167,0.0,0,False,HOU
+20251024,Khris Middleton,Giulia's Great Team,active,23.0,6.0,3.0,0.0,0.0,3.0,0.643,0.667,0,False,WAS
+20251024,Brice Sensabaugh,Bricked I Am,active,20.0,4.0,2.0,0.0,1.0,3.0,0.538,1.0,0,False,UTA
+20251024,Isaiah Stewart,Marx Madness,active,20.0,10.0,2.0,4.0,0.0,2.0,0.571,1.0,0,False,DET
+20251024,Kyle Kuzma,Baptiste team,active,12.0,4.0,3.0,2.0,2.0,0.0,0.5,1.0,0,False,MIL
+20251024,Davion Mitchell,Neon Cobras 99,active,16.0,6.0,12.0,1.0,2.0,2.0,0.467,0.0,0,False,MIA
+20251024,Jarrett Allen,Elie Auquaubeau,active,4.0,4.0,1.0,0.0,2.0,0.0,0.25,0.5,0,False,CLE
+20251024,Kel'el Ware,Alexander's Awesome Team,active,7.0,4.0,0.0,1.0,1.0,1.0,0.6,0.0,0,False,MIA
+20251024,Jaime Jaquez Jr.,The Bronsegsuals,active,13.0,6.0,1.0,0.0,2.0,0.0,0.857,0.5,0,False,MIA

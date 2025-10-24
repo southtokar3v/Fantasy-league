@@ -1,0 +1,21 @@
+# En cas d'erreur de connexion
+## Vérifier votre connexion internet
+ping espn.com
+
+## Vérifier les logs d'erreur
+cat logs/espn_collector_$(date +%Y%m%d).log
+
+## Redémarrer la collecte
+python scripts/run_collection.py
+
+# En cas d'erreur de permission
+## Donner les droits d'exécution aux scripts
+chmod +x scripts/*.py
+
+## Donner les droits d'écriture aux dossiers de données
+chmod -R 755 data/
+chmod -R 755 logs/
+
+# En cas de problème avec les dépendances
+## Réinstaller les dépendances
+pip install -r requirements.txt
