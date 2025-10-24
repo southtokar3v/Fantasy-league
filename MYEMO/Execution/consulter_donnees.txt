@@ -1,0 +1,20 @@
+# Vérifier les données collectées
+
+## Voir les fichiers de standings
+ls -l data/raw/standings/
+
+## Voir les fichiers de rosters
+ls -l data/raw/rosters/
+
+## Voir les fichiers d'agents libres
+ls -l data/raw/free_agents/
+
+## Voir les logs d'exécution
+ls -l logs/
+
+## Lire le dernier fichier de log
+tail -f logs/espn_collector_$(date +%Y%m%d).log
+
+## Voir le contenu d'un fichier CSV (remplacer [FILENAME])
+## Exemple : cat data/raw/standings/standings_20251024_143000.csv
+cat data/raw/standings/[FILENAME]
